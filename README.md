@@ -1,0 +1,1 @@
+### Jetbrains IDE Trial Reset For MacOS
